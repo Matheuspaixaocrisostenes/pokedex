@@ -1,2 +1,3 @@
-# pokedex
-uma simples pokedex só para teste com html5 puro e css3 puro feito por mim
+# Pokedex
+uma simples pokedex só para teste com html5 e bootstrap 
+
