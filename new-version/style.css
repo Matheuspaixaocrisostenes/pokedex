@@ -64,4 +64,9 @@ footer a:hover{
     #res{
         width: 90vw;
     }
+
+    footer p{
+        font-size: 1em;
+        width: 100%;
+    }
 }
