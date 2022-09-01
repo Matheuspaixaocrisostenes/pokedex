@@ -42,6 +42,24 @@ span{
     color: white;
 }
 
+footer p{
+    margin-top: 30px;
+    font-size: 1.5em;
+    width: 98vw;
+    color: crimson;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(161, 13, 43);
+    font-weight: bold;
+}
+
+footer a:hover{
+    color: rgb(80, 5, 20);
+    transition: .5s;
+}
+
 @media(max-width: 650px){
     #res{
         width: 90vw;
